@@ -1,4 +1,4 @@
-# AWS Cloud Practitioner ![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+# AWS Cloud Practitioner <img src="https://github.com/ademarionobre/AWS-Cloud-Practitioner/assets/92057489/78f05cfc-0c02-4dd1-b3d5-9a2844bb98ca" style=" width:100px ; height:100px">
 
 Repositório contendo infomações técnicas, referências, compilados para a prova de certificação AWS Cloud Practitioner (CLF-C01 Cloud Practitioner).
 Contendo informações relacionadas a serviços, políticas e procedimentos que provavelmente caem na prova de certificação.
